@@ -35,7 +35,7 @@ Execute the program using runserver command.
     <h3>SLOT TIME TABLE - YOUR-NAME</h3>
 
     <table border="1">
-        <tr BGCOLOR="YELLOW">
+        <tr BGCOLOR="PURPLE">
             <th>Day/Time</th>
             <th>Monday</th>
             <th>Tuesday</th>
