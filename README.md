@@ -112,7 +112,7 @@ REF NO:25018250
 ```
 
 ## OUTPUT
-![alt text](<MahaVishnu/slotapp/static/Screenshot (26).png>)
+![alt text](<MahaVishnu/slotapp/static/Screenshot (27).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
