@@ -24,13 +24,13 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```<!DOCTYPE html>
+```
 <html>
 <head>
     <title>Slot Time Table - YOUR NAME</title>
 </head>
 <body>
-    <IMG src="C:\Users\acer\slot\timetable\timetableapp\static\logo.png" HEIGHT="150"WIDTH="500"BORDER=6>
+    <IMG src="C:\Users\acer\slot\MahaVishnu\slotapp\static\logo.png" HEIGHT="150"WIDTH="500"BORDER=6>
     <h2>Saveetha Engineering College</h2>
     <h3>SLOT TIME TABLE - YOUR-NAME</h3>
 
@@ -46,18 +46,18 @@ Execute the program using runserver command.
         <tr BGCOLOR="GREEN">
             <td BGCOLOR="YELLOW">8-10</td>
             <td>FREE SLOT</td>
-            <td>PUBLIC SPEAKING</td>
+            <td>C</td>
             <td>FREE SLOT</td>
-            <td>PUBLIC SPEAKING</td>
-            <td>PUBIC SPEAKING</td>
+            <td>CE</td>
+            <td>CE</td>
         </tr>
         <tr BGCOLOR="RED">
             <td BGCOLOR="YELLOW">10-12</td>
-            <td>PYTHON</td>
-            <td>WEB APPLICATION</td>
+            <td>C</td>
+            <td>FWAD</td>
             <td>FREE SLOT</td>
-            <td>PYTHON</td>
-            <td>PUBLIC SPEAKING</td>
+            <td>C</td>
+            <td>CE</td>
         </tr>
         </tr>
         <tr BGCOLOR="CYAN">
@@ -66,19 +66,19 @@ Execute the program using runserver command.
         </tr>
         <tr BGCOLOR="GREEN">
             <td BGCOLOR="YELLOW">1-3</td>
-            <td>WEB APPLICATION</td>
-            <td>PUBLIC SPEAKING</td>
+            <td>FWAD</td>
+            <td>CE</td>
             <td>MENTOR MEETING</td>
             <td>FREE SLOT</td>
-            <td>WEB APPLICATION</td>
+            <td>FWAD</td>
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">3-5</td>
             <td>FREE SLOT</td>
-            <td>WEB APPLICATION</td>
-            <td>PYTHON</td>
-            <td>PYTHON</td>
-            <td>PYTHON</td>
+            <td>FWAD</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
         </tr>
     </table>
 
@@ -97,12 +97,12 @@ Execute the program using runserver command.
         <tr>
             <td>2.</td>
             <td>19EN105</td>
-            <td>PUBLIC SPEAKING(PS)</td>
+            <td>COMMUNICATIVE ENGLISH(CE)</td>
         </tr>
         <tr>
             <td>3.</td>
             <td>19AI301</td>
-            <td>PYTHON PROGRAMING</td>
+            <td>C PROGRAMING (C)</td>
         </tr>
     </table>
 </body>
@@ -110,7 +110,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](timetable/timetableapp/static/Timetable.png)
+![alt text](<MahaVishnu/slotapp/static/Screenshot (26).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
