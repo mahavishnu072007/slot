@@ -25,94 +25,92 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-NAME:MAHA VISHNU
-REF NO:25018250
 <html>
 <head>
-    <title>Slot Time Table - YOUR NAME</title>
+<title>SLOT TIMETABLE</title>
 </head>
 <body>
-    <IMG src="C:\Users\acer\slot\MahaVishnu\slotapp\static\logo.png" HEIGHT="150"WIDTH="500"BORDER=6>
-    <h2>Saveetha Engineering College</h2>
-    <h3>SLOT TIME TABLE - YOUR-NAME</h3>
-
-    <table border="1">
-        <tr BGCOLOR="PURPLE">
-            <th>Day/Time</th>
-            <th>Monday</th>
-            <th>Tuesday</th>
-            <th>Wednesday</th>
-            <th>Thursday</th>
-            <th>Friday</th>
-        </tr>
-        <tr BGCOLOR="GREEN">
-            <td BGCOLOR="YELLOW">8-10</td>
-            <td>FREE SLOT</td>
-            <td>C</td>
-            <td>FREE SLOT</td>
-            <td>CE</td>
-            <td>CE</td>
-        </tr>
-        <tr BGCOLOR="RED">
-            <td BGCOLOR="YELLOW">10-12</td>
-            <td>C</td>
-            <td>FWAD</td>
-            <td>FREE SLOT</td>
-            <td>C</td>
-            <td>CE</td>
-        </tr>
-        </tr>
-        <tr BGCOLOR="CYAN">
-            <td BGCOLOR="YELLOW">12-1</td>
-            <td COLSPAN=5 ALIGN="CENTER">LUNCH</td>
-        </tr>
-        <tr BGCOLOR="GREEN">
-            <td BGCOLOR="YELLOW">1-3</td>
-            <td>FWAD</td>
-            <td>CE</td>
-            <td>MENTOR MEETING</td>
-            <td>FREE SLOT</td>
-            <td>FWAD</td>
-        </tr>
-        <tr BGCOLOR="CYAN">
-            <td BGCOLOR="YELLOW">3-5</td>
-            <td>FREE SLOT</td>
-            <td>FWAD</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
-        </tr>
-    </table>
-
-    <h3>Subjects</h3>
-    <table border="1">
-        <tr>
-            <th>S. No.</th>
-            <th>Subject Code</th>
-            <th>Subject Name</th>
-        </tr>
-        <tr>
-            <td>1.</td>
-            <td>19AI414</td>
-            <td>Fundamentals of Web Application Development (FWAD)</td>
-        </tr>
-        <tr>
-            <td>2.</td>
-            <td>19EN105</td>
-            <td>COMMUNICATIVE ENGLISH(CE)</td>
-        </tr>
-        <tr>
-            <td>3.</td>
-            <td>19AI301</td>
-            <td>C PROGRAMING (C)</td>
-        </tr>
-    </table>
+<center>
+    <img src="MahaVishnu/slotapp/static/logo.png" height="100" width="540"
+</center>
+<br>
+<table align="center" width="540" cellspaceing="2" cellpading="4" border="5" bgcolour="cyan">
+<caption><b>SLOT TIMETABLE - PRANAY N (2501770)</b></caption>
+<tr align="center">
+<th bgcolour="yellow">Day/Time</th>
+<th bgcolour="yellow">Monday</th>
+<th bgcolour="yellow">Tuesday</th>
+<th bgcolour="yellow">Wednesday</th>
+<th bgcolour="yellow">Thursday</th>
+<th bgcolour="yellow">friday</th>
+<th bgcolour="yellow">saturday</th>
+</tr>
+<tr align="center">
+<th bgcolour="yellow">8-10</th>
+<td>FWAD</td>
+<td>FWAD</td>
+<td>COMMUNICATIVE ENGLISH</td>
+<td>C PROGRAMING</td>
+<td>FWAD</td>
+<td>FREE</td>
+</tr>
+<tr align="center">
+<th bgcolour="yellow">10-12</th>
+<td>FREE</td>
+<td>CE</td>
+<td>COMMUNICATIVE ENGLISH</td>
+<td>FREE</td>
+<td>CE</td>
+<td>CE</td>
+</tr>
+<tr align="center">
+<th bgcolour="yellow">1-3</th>
+<td>FWAD</td>
+<td>FUNDAMENTALS OF WEB APPLICATION</td>
+<td>MENTOR MEET</td>
+<td>C PROGRAMING</td>
+<td>CE</td>
+<td>FREE</td>
+</tr>
+<tr align="center">
+<th bgcolour="yellow">3-5</th>
+<td>C PROGRAMING</td>
+<td>C PROGRAMING</td>
+<td>FREE</td>
+<td>FREE</td>
+<td>C PROGRAMING</td>
+<td>FREE</td>
+</tr>
+</table>
+<br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>s.no</th>
+<th>subject code</th>
+<th>subject name</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>FUNDAMENTALS OF WEB APPLICATION (FWAD)</td>
+</tr>
+<tr>
+<td align="center">2.</td>
+<td align="center">19AI303</td>
+<td>C PROGRAMING</td>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">ENGLISH</td>
+<td>COMMUNICATIVE ENGLISH (CE)</td>
+</tr>
+</table>
 </body>
 </html>
 ```
 
 ## OUTPUT
-![alt text](<MahaVishnu/slotapp/static/Screenshot (29).png>)
+![alt text](<Screenshot (37).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
